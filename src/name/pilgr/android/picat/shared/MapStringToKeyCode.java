@@ -77,6 +77,7 @@ public final class MapStringToKeyCode {
         put("Ins", VK_INSERT);
         put("PgUp", VK_PAGE_UP);
         put("PgDn", VK_PAGE_DOWN);
+        put("Home", VK_HOME);
         put("End", VK_END);
         put("Enter", VK_ENTER);
         put("Space", VK_SPACE);
@@ -84,6 +85,8 @@ public final class MapStringToKeyCode {
         put("Right", VK_RIGHT);
         put("Up", VK_UP);
         put("Down", VK_DOWN);
+        put("Pause", VK_PAUSE);
+        put("Backspace", VK_BACK_SPACE);
 
     }
 
